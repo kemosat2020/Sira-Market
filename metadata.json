@@ -1,0 +1,5 @@
+{
+  "name": "Copy of New POS System",
+  "description": "A modern, responsive Point of Sale (POS) application built with React and Tailwind CSS for managing retail sales. It features a product grid, a dynamic cart, and a streamlined checkout process.",
+  "requestFramePermissions": []
+}
